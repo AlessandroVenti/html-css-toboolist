@@ -1,0 +1,121 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+
+#logo {
+  width: 50px;
+  height: 50px;
+  margin-left: 1%;
+  vertical-align: middle;
+}
+
+#toboolist {
+  font-size: 35px;
+  font-weight: bold;
+  margin: 10px;
+  vertical-align: middle;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.container {
+  background-color: #f5f5f5;
+  padding-top: 3%;
+  padding-bottom: 1%;
+  height: 100%;
+}
+
+main {
+  margin-left: 10%;
+  margin-right: 10%;
+  background-color: white;
+  height: 100%;
+  border-radius: 10px;
+}
+
+.left-padding {
+  padding-left: 5%;
+}
+
+.blue-button {
+  background-color: lightblue;
+  color: white;
+}
+
+.margin-for-buttons {
+  margin-top: 2%;
+  margin-right: 0.5%;
+  margin-bottom: 1%;
+  width: 100px;
+  height: 35px;
+  border-radius: 7px;
+}
+
+.white-button {
+  background-color: white;
+  color: lightgrey;
+  border: 1px solid lightgrey;
+}
+
+hr {
+  border: 1px solid #f5f5f5;
+}
+
+section {
+  margin-top: 30px;
+}
+
+.flag {
+  font-size: 15px;
+}
+
+.margin2-for-buttons {
+  margin-right: 0.5%;
+  width: 80px;
+  height: 35px;
+  border-radius: 20px;
+}
+
+.margin-for-layout {
+  margin-bottom: 20px;
+}
+
+.check {
+  color: green;
+}
+
+.cross {
+  color: red;
+  font-size: 25px;
+}
+
+.violet-button {
+  background-color: violet;
+  color: white;
+}
+
+.green-button {
+  background-color: green;
+  color: white;
+}
+
+.orange-button {
+  background-color: orange;
+  color: white;
+}
+
+.pink-button {
+  background-color: pink;
+  color: white;
+}
+
+.lightgreen-button {
+  background-color: lightgreen;
+  color: white;
+}
